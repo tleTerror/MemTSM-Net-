@@ -63,7 +63,8 @@ python test.py \
 
 
 ## Sample Output
-![Training Curves](![image](https://github.com/user-attachments/assets/2d46c362-23c3-41b5-a92b-6938b7bda390))  
+![Training Curves](![image](https://github.com/user-attachments/assets/57657812-b402-46d2-a49d-a04316a0ba6c)
+)  
 *ROC-AUC and PR-AUC progression over 20 epochs*
 
 ## 🎯 Key Advantages
