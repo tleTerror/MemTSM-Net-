@@ -7,7 +7,7 @@ An advanced anomaly detection framework combining **temporal shift operations**,
 
 ## Extracted X3D Features for UCF-Crime dataset
 
-![# UCF-Crime X3D Features on Google drive](https://drive.google.com/file/d/128CXC-ctWE3kgy1lxoQ3sqvheccv5TmD/view?usp=sharing)
+# [UCF-Crime X3D Features on Google drive](https://drive.google.com/file/d/128CXC-ctWE3kgy1lxoQ3sqvheccv5TmD/view?usp=sharing)
 
 ## Technical Highlights
 
