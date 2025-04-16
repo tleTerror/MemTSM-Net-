@@ -5,7 +5,7 @@
 
 An advanced anomaly detection framework combining **temporal shift operations**, **memory prototypes**, and **channel-wise attention** to achieve state-of-the-art performance on surveillance video analysis.
 
-## 🧠 Technical Highlights
+## Technical Highlights
 
 ### Novel Architectural Components
 - **Memory-Enhanced TSM Blocks**  
@@ -20,7 +20,7 @@ An advanced anomaly detection framework combining **temporal shift operations**,
 - **Optimization**: AdamW (lr=1e-4, wd=0.1) + Cosine LR Scheduler
 - **Regularization**: Gradient clipping (max_norm=1.0)
 
-## 🏆 Benchmark Results (UCF-Crime)
+## Benchmark Results (UCF-Crime)
 
 | Metric       | Score     | Significance |
 |--------------|-----------|--------------|
@@ -56,7 +56,7 @@ python test.py \
   --plot_curves            # Generates ROC/PR plots
 ```
 
-## 📂 Code Structure
+## Code Structure
 ```
 models/
 ├── tsm.py            # Temporal Shift Modules
@@ -69,9 +69,9 @@ utils/
 ├── logger.py         # Metric tracking
 ```
 
-## 📊 Sample Output
-![Training Curves](docs/curves.png)  
-*ROC-AUC and PR-AUC progression over 50 epochs*
+## Sample Output
+![Training Curves](![image](https://github.com/user-attachments/assets/2d46c362-23c3-41b5-a92b-6938b7bda390))  
+*ROC-AUC and PR-AUC progression over 20 epochs*
 
 ## 🎯 Key Advantages
 1. **Efficiency**: 3.2× faster than 3D CNNs with comparable accuracy
