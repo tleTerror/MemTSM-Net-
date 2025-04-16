@@ -5,9 +5,9 @@
 
 An advanced anomaly detection framework combining **temporal shift operations**, **memory prototypes**, and **channel-wise attention** to achieve state-of-the-art performance on surveillance video analysis.
 
-## Extracted X3D Features for UCF-Crime dataset
+## Extracted XFeat Features for UCF-Crime dataset
 
-# [UCF-Crime X3D Features on Google drive](https://drive.google.com/file/d/128CXC-ctWE3kgy1lxoQ3sqvheccv5TmD/view?usp=sharing)
+# [UCF-Crime XFeat Features on Google drive](https://drive.google.com/file/d/128CXC-ctWE3kgy1lxoQ3sqvheccv5TmD/view?usp=sharing)
 
 ## Technical Highlights
 
