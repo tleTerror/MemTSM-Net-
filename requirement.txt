@@ -1,0 +1,10 @@
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+numpy==1.23.5
+scikit-learn==1.1.2
+timm==0.6.12  # For CosineLRScheduler
+tqdm==4.64.1
+seaborn==0.12.2
+matplotlib==3.6.2
+opencv-python==4.7.0.72  # For potential video preprocessing
+kaggle==1.5.12  # Only if using Kaggle datasets
