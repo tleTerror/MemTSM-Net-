@@ -5,6 +5,10 @@
 
 An advanced anomaly detection framework combining **temporal shift operations**, **memory prototypes**, and **channel-wise attention** to achieve state-of-the-art performance on surveillance video analysis.
 
+## Extracted X3D Features for UCF-Crime dataset
+
+[# UCF-Crime X3D Features on Google drive](https://drive.google.com/file/d/128CXC-ctWE3kgy1lxoQ3sqvheccv5TmD/view?usp=sharing)
+
 ## Technical Highlights
 
 ### Novel Architectural Components
@@ -56,18 +60,7 @@ python test.py \
   --plot_curves            # Generates ROC/PR plots
 ```
 
-## Code Structure
-```
-models/
-├── tsm.py            # Temporal Shift Modules
-├── memory.py         # Memory queue implementation
-├── se.py             # Squeeze-Excitation blocks
-├── loss.py           # Hybrid loss function
-data/                 # Custom VideoFeatureDataset
-utils/
-├── scheduler.py      # CosineLRScheduler
-├── logger.py         # Metric tracking
-```
+
 
 ## Sample Output
 ![Training Curves](![image](https://github.com/user-attachments/assets/2d46c362-23c3-41b5-a92b-6938b7bda390))  
