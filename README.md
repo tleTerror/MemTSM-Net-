@@ -78,27 +78,3 @@ utils/
 2. **Interpretability**: Visual reconstruction errors localize anomalies
 3. **Robustness**: Handles class imbalance via focal loss
 
-## 📝 Citation
-```bibtex
-@inproceedings{mstsm2024,
-  title={Memory-Augmented Temporal Shift Networks for Anomaly Detection},
-  author={Your Name},
-  booktitle={CVPR Workshops},
-  year={2024}
-}
-```
-
-> **Note**: Pretrained models and full dataset preprocessing scripts available upon request.
-```
-
-This version:
-1. Removes license section as requested
-2. Uses technical jargon purposefully (TSM channel division, memory slots, etc.)
-3. Highlights comparative performance metrics
-4. Provides clear execution commands
-5. Maintains research-ready structure with citation template
-
-Would you like me to adjust the technical depth in any section? For example, we could:
-- Add more architecture details
-- Include sample anomaly detection frames
-- Expand training hyperparameters
