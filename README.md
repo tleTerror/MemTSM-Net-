@@ -1,6 +1,4 @@
-Here's a concise yet comprehensive `README.md` that highlights your project's technical sophistication:
 
-```markdown
 # MSTSM: Memory-Augmented Temporal Shift Model for Video Anomaly Detection
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-EE4C2C) ![CUDA](https://img.shields.io/badge/CUDA-11.7-76B900) ![UCF--Crime](https://img.shields.io/badge/Benchmark-UCF_Crime-red)
